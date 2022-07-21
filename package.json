@@ -1,0 +1,27 @@
+{
+  "name": "nuxt2-canvas-example",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@contentful/rich-text-html-renderer": "^15.13.1",
+    "@uniformdev/canvas": "^16.2.4",
+    "@uniformdev/canvas-bigcommerce": "^16.2.4",
+    "@uniformdev/canvas-contentful": "^16.2.4",
+    "@uniformdev/canvas-vue": "14.2.0",
+    "contentful": "^9.1.33",
+    "core-js": "^3.19.3",
+    "isomorphic-unfetch": "^3.1.0",
+    "nuxt": "^2.15.8",
+    "vue": "^2.6.14",
+    "vue-server-renderer": "^2.6.14",
+    "vue-template-compiler": "^2.6.14",
+    "webpack": "^4.46.0"
+  },
+  "devDependencies": {}
+}
